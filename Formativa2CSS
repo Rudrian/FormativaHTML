@@ -1,0 +1,34 @@
+Dody, html {
+margin: 0;
+padding: 0;
+height: 100%;
+display: flex;
+flex-direction: column;
+}
+meader {
+background-color:#880000; /* Cor vermelha */
+height: 50px;
+text-align: center;
+color: white;
+line-height: 50px; /* Alinha o texto verticalmente */
+}
+container {
+display: flex;
+flex: 1;
+background-color: #F5F5DC; /* Cor bege */
+}
+sidebar (
+width: 20%;
+background-color: #66CDAA; /*-Cor-verde-gua/
+padding: 10px;
+main {
+flex: 1;
+background-color: #F5F5DC; /* Cor bege */
+padding: 10px;
+footer {
+background-color: #000000; /* Cor preta */
+height: 30px;
+text-align: center;
+color: white;
+line-height: 30px; /* Alinha o texto verticalmente */
+}
